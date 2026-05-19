@@ -1,0 +1,9 @@
+{
+  "pluginName": "Custom Maps Plugin",
+  "version": "1.0.0",
+  "settings": {
+    "enabled": true,
+    "debugMode": false
+  },
+  "maps": []
+}
