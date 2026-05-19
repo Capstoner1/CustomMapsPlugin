@@ -1,9 +1,18 @@
 {
-  "pluginName": "Custom Maps Plugin",
-  "version": "1.0.0",
-  "settings": {
-    "enabled": true,
-    "debugMode": false
-  },
-  "maps": []
+  "maps": [
+    {
+      "name": "Beckwith Park (Night)",
+      "author": "CommunityMapper",
+      "description": "A night version of Beckwith Park with custom lighting.",
+      "category": "Arena",
+      "downloadUrl": "https://example.com/maps/beckwith_night.zip"
+    },
+    {
+      "name": "Pillars (Custom)",
+      "author": "AnotherMapper",
+      "description": "Classic Pillars with custom textures.",
+      "category": "Arena",
+      "downloadUrl": "https://example.com/maps/pillars_custom.zip"
+    }
+  ]
 }
